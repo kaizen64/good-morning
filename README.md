@@ -1,2 +1,3 @@
 # good-morning
-Simple program to start up the files I use the most
+
+A simple program to start up the files I use the most inside a tmux session
